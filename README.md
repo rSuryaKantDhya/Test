@@ -4,6 +4,6 @@ gdhdghvhjvhdvladjjjjjjsssssssssssssssssssssssssssssssssssssssssssssallllllllllll
 
 
 changing to readme and pulling
-
+changing to ignore
 change to ignore
 changing from one repositoy
