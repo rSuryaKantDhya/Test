@@ -12,4 +12,8 @@ chanign from orign
 changing to ignore
 change to ignore
 changing from one repositoy
+<<<<<<< Updated upstream
 changed to first
+=======
+changed to Stach
+>>>>>>> Stashed changes
